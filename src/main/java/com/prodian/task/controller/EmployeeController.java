@@ -31,7 +31,7 @@ import com.prodian.task.service.EmployeeDetailsService;
 
 @RestController
  
-@RequestMapping("/api/csvfile")
+@RequestMapping("/api/csvfil")
  
 public class EmployeeController {
 
