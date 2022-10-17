@@ -30,7 +30,7 @@ import com.prodian.task.modal.EmployeeDetails;
 import com.prodian.task.service.EmployeeDetailsService;
 
 @RestController
-@RequestMapping("/api/csv")
+@RequestMapping("/api/csvs")
 public class EmployeeController {
 
 	 @Autowired
